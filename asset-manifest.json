@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PoojaYadav72/calculator/static/css/main.bfa5ec5a.css",
+    "main.js": "/PoojaYadav72/calculator/static/js/main.86007521.js",
+    "static/js/787.a174f9e5.chunk.js": "/PoojaYadav72/calculator/static/js/787.a174f9e5.chunk.js",
+    "static/media/logo.svg": "/PoojaYadav72/calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PoojaYadav72/calculator/index.html",
+    "main.bfa5ec5a.css.map": "/PoojaYadav72/calculator/static/css/main.bfa5ec5a.css.map",
+    "main.86007521.js.map": "/PoojaYadav72/calculator/static/js/main.86007521.js.map",
+    "787.a174f9e5.chunk.js.map": "/PoojaYadav72/calculator/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfa5ec5a.css",
+    "static/js/main.86007521.js"
+  ]
+}
